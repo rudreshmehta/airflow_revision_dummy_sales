@@ -1,0 +1,4 @@
+order_id,customer_name,product,quantity,price,order_date
+1,Alice,Laptop,2,1000,2023-12-15
+2,Bob,Mouse,5,25,2023-12-15
+3,Alice,Keyboard,3,50,2023-12-16

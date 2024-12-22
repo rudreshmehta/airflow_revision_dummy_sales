@@ -1,0 +1,17 @@
+# It is generalized gitignore file for airflow project
+# Ignore Airflow logs and temp files
+logs/
+*.log
+tmp/
+airflow.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore sensitive environment files
+.env
+
+# VS code file
+.vscode
